@@ -1,0 +1,16 @@
+> Pathway Map Id:
+00010
+> MCL:
+true
+> Inflation parameter:
+12
+> EM:
+false
+> e-Value:
+10,-5
+> Number of genomes:
+3
+> Genomes:
+ath
+eco
+hsa
